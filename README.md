@@ -1,3 +1,6 @@
+
+![a](/uploads/11111111111111111111111111111111/../../../../../../../../../../../../../../etc/passwd)
+
 # Zulip overview
 
 Zulip is a powerful, open source group chat application that combines the
